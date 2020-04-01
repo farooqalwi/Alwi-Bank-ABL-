@@ -1,0 +1,12 @@
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\bin\Debug\Alwi Bank (ABL).exe.config
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\bin\Debug\Alwi Bank (ABL).exe
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\bin\Debug\Alwi Bank (ABL).pdb
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi_Bank__ABL_.Sample.resources
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi_Bank__ABL_.Properties.Resources.resources
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi Bank (ABL).csproj.GenerateResource.cache
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi Bank (ABL).exe
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi Bank (ABL).pdb
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi_Bank__ABL_.MDI.resources
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi_Bank__ABL_.Forms.LoginForm.resources
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi_Bank__ABL_.Forms.SettingForm.resources
+D:\CSSE Course\CSSE-III\RDBMS\Project\Alwi Bank (ABL)\obj\Debug\Alwi Bank (ABL).csprojAssemblyReference.cache
